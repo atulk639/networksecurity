@@ -1,1 +1,1 @@
-## Network securit project for phishing project
+## Network security project for phishing project
